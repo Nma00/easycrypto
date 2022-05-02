@@ -1,13 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import EasycryptoApp from './EasycryptoApp';
+//import EasycryptoSdkApp from './EasycryptoSdkApp';
+//import EasycryptoApp from './EasycryptoApp';
+import EasycryptoAppV1 from './EasycryptoAppV1';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <EasycryptoApp />
+    <EasycryptoAppV1 />
   </React.StrictMode>
 );
 
