@@ -1,6 +1,6 @@
 # Easy Crypto
 
-This app makes it easy and quick to buy cryptocurrencies through Transak's fiat on/off ramp integration.
+This app makes it easy and quick to buy cryptocurrencies through Transak's fiat ramp.
 
 Demo site : http://easycrypto.freeddns.org
 
