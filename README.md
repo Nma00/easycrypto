@@ -1,12 +1,12 @@
 # Easy Crypto
 
-This app makes it easy and quick to buy cryptocurrencies through Transak's fiat ramp.
+Easy Crypto allows the quick purchase of cryptocurrencies.
+
+The application uses [Transak technology](https://transak.com/) as a Fiat/Crypto ramp.
 
 Demo site : http://easycrypto.freeddns.org
 
-## Install
-
-The application is built with [React](https://reactjs.org) and [Bootstrap](https://getbootstrap.com/) frameworks.
+## Build
 
 Install dependencies :
 ```
@@ -22,3 +22,7 @@ Start development server :
 ```
 npm start
 ```
+
+## Librairies
+
+The application is built with [React](https://reactjs.org) and [Bootstrap](https://getbootstrap.com/) frameworks.

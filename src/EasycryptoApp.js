@@ -2,7 +2,7 @@ import './EasycryptoApp.css';
 
 const TRANSAK_API_KEY = 'ff5d9cc4-647a-493e-a764-4434e063e7be';
 const SCREEN_TITLE = 'Buy cryptos in a few clicks';
-const IFRAME_HEIGHT = 630;
+const IFRAME_HEIGHT = 650;
 const IFRAME_WIDTH = 500;
 const IFRAME_URL = `https://staging-global.transak.com?apiKey=${TRANSAK_API_KEY}&exchangeScreenTitle=${encodeURIComponent(SCREEN_TITLE)}&isFeeCalculationHidden=true&themeColor=198754&hideMenu=false&redirectURL=${window.location.origin}`;
 const IFRAME_STYLE = {
@@ -16,7 +16,7 @@ const IFRAME_STYLE = {
 function EasycryptoApp() {
   return (
     <>
-      <nav className="navbar navbar-dark bg-success mb-5">
+      <nav className="navbar navbar-dark bg-success shadow-sm mb-5">
         <div className="container-fluid">
           <span className="navbar-text">
             <a id="page-title" href="/" className="fs-2 text-light pe-3 text-decoration-none">Easy Crypto</a>

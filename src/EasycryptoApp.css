@@ -1,4 +1,2 @@
-#page-title {
-    font-family: Georgia, 'Times New Roman', Times, serif; 
-    //font-family: "Lucida Console", "Courier New", monospace;
-}
+body { background-color: #e9fbf3 ; }
+#page-title { font-family: Georgia, 'Times New Roman', Times, serif; }
